@@ -1,3 +1,32 @@
+-----------------------------------------------------------------------------------------------
+## ETAPES DE LANCEMENT DU PROJET : 
+
+# Création du projet via l'invite de commande CodeVS (Option bootstrap).
+
+# Suppression de quelques éléments de la génération automatique
+
+# Paramétrage du routing : 
+[4 Sections : HOME | GSM-SERVICES | ACTEMIUM | SEMLEX]
+
+HOME  : "/"
+GSM-SERVICES : "/gsm-services"
+ACTEMIUM : "/actemium"
+SEMLEX : "/semlex"
+
+# Intégration navbar via bootstrap avec les 4 sections
+
+# Remplissage des sections avec leurs données propres
+
+
+-------------------------------------------------------------------------------------------------
+
+
+#localhost:4200/
+
+
+
+
+
 # SuezProject
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.2.0.
